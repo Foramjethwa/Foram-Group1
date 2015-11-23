@@ -11,7 +11,7 @@ namespace MvcApplication1.Controllers
     {
         public ActionResult Index()
         {
-            ViewData["Message"] = "Welcome to Git!";
+            ViewData["Message"] = "Welcome to Git1!";
 
             return View();
         }
